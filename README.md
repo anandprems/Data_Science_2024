@@ -11,3 +11,7 @@ Class 2 (Module 1 - Data Science Overview) - https://drive.google.com/file/d/1RL
 Class 3 (Module 1 - Data Science Overview) - https://drive.google.com/file/d/1BTwX3sGNPs4DC4LXX-xB60ycvLpFR3TM/view?usp=sharing 
 
 Class 4 (Module - 1 - Data Science Overview) - https://drive.google.com/file/d/1UFazquYUZB7guYPdfWWLsSF3dNghi6lE/view?usp=sharing 
+
+Class 5 (Module 1 Data Science Overview) - 
+
+Class 6 (Module 2 Statistics) - 
